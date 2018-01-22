@@ -1,0 +1,9 @@
+data-analysis==0.0.1
+jupyter==1.0.0
+nltk==3.2.5
+numpy==1.14.0
+pandas==0.22.0
+PyQt5==5.9.2
+python-twitter==3.3
+sip==4.19.6
+SQLAlchemy==1.2.1
